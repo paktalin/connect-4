@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect 4</string>
+    <string name="ok">OK</string>
+    <string name="your_turn">It\'s your turn, %1$s</string>
+</resources>

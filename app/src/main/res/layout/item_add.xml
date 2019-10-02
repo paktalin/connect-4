@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.paktalin.connect4.SquareViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/circle_add_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="6dp"
+        android:src="@drawable/circle" />
+
+</com.paktalin.connect4.SquareViewGroup>
